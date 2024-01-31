@@ -86,7 +86,6 @@ public class MainProgram {
     zofka.turnRight(-90);
   }
 
-
   public void writeO() {
     zofka.move(40);
     zofka.setPenColor(Color.darkGray);
@@ -251,7 +250,5 @@ public class MainProgram {
     }
 
   }
-
-
-  }
+}
 
