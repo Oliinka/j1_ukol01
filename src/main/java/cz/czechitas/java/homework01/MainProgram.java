@@ -183,7 +183,6 @@ public class MainProgram {
       zofka.turnLeft(90);
       zofka.move(100);
       pigLeg();
-
 }
     public  void  drawHouse(){
     drawSquare();
